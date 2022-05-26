@@ -1,0 +1,5 @@
+Chuong Le  |  chuongl@ou.edu  |  walked me through what each of the algorithms meant, and gave me the idea to use an array of structs for implementing it
+
+stack overflow  |  stackoverflow.com/questions/3501338/c-read-file-line-by-line  |  inspired me to use getline() for reading in the file 
+
+tutorials point  |  tutorialspoint.com/c_standard_library/c_function_sscanf.htm  |  showed me how to use sscanf, which I used to tokenize the input file

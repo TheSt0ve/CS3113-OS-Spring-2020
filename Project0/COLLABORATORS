@@ -1,0 +1,4 @@
+Reinhardt Scott | don't know e-mail, but he's in our class  | Told me how to use read() to get the input
+Tristan Alvey | don't know his e-mail, but hes in our class  | Indirectly helped me understand the byte logic by talking about his thought process during office hours
+Programming Simplified | https://www.programmingsimplified.com/c/source-code/c-program-bubble-sort | I based my sort function off of their bubble sort
+GeeksforGeeks | https://www.geeksforgeeks.org/lseek-in-c-to-read-the-alternate-nth-byte-and-write-it-in-another-file/ | I was inspired to use the lseek() system call by this page
